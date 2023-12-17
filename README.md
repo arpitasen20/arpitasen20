@@ -42,9 +42,9 @@
 ###
 
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/arpita-sen-1a2b7a287/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="52" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ArpitaSen698725" target="_blank">
     <img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" width="52" height="40" alt="twitter logo"  />
