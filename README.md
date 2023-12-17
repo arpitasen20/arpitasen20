@@ -47,7 +47,7 @@
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="52" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ArpitaSen698725" target="_blank">
-    <img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" width="52" height="40" alt="twitter logo"  />
+    <img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" width="52" height="50" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/channels/arpitasen" target="_blank">
     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="52" height="40" alt="discord logo"  />
