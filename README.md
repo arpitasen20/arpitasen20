@@ -2,14 +2,15 @@
 
 ###
 
-<img align="right" height="150" src="https://[i.imgflip.com/65efzo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1639688214129/HamtYnMWN.gif?w=400&h=400&fit=crop&crop=faces&auto=format,compress&gif-q=60&format=webm)"  />
+<h2 align="left">About me</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitasen20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitasen20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">✨ Creating bugs since 2003 <br>📚 I'm currently learning and exploring to more <br>🎯 Goals: Develop deep knowledge and expertise in a cutting-edge field like blockchain or machine learning.<br></p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -33,23 +34,28 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitasen20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitasen20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 <div align="left">
   <a href="https://www.linkedin.com/in/arpita-sen-1a2b7a287/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ArpitaSen698725" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/channels/arpitasen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCIjdnILBi3e4QCFUmP-aiPw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/arpitasen20/arpitasen20/output/snake.svg" alt="Snake animation" />
-
-###
